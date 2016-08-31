@@ -1,0 +1,14 @@
+{
+	"appname": "Test 8/31",
+	"scope": "FullAccess",
+	"clientid": "5FD9BF55-288B-4D0A-93B7-A4F67A9C91D4",
+	"buyerid": "Ellatest",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
